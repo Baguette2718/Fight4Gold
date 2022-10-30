@@ -1,2 +1,3 @@
 # Fight4Gold
-CS 415 Final ProjectTeam 10 
+CS 415 Final Project
+Team 10
